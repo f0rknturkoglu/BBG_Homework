@@ -1,2 +1,3 @@
 # BBG_Homework
-BBG Odev
+KBU Yazilim Muhendisligi  BBG Odevi
+
